@@ -1,2 +1,2 @@
-Policy No,Reconciliation Date,Driver ID,Termination Date,Termination Reason
-GC000000006765,2019/01/02,DW124667,2020/01/01,Expired
+Driver ID,Policy Number,Effective Date,Expire Date,Terminated Reason
+78891,GC000000006765,12/07/2019 00:00,05/07/2020 23:59,DRIVER_RESIGNED_CANCEL
