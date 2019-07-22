@@ -1,7 +1,4 @@
-Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC000000032336,03/06/2016 to 28/05/2017,SGD,3.48,Free Policy,PAID
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC000000032341,03/06/2016 to 28/05/2017,SGD,0.3,none,PAID
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC000000032356,03/06/2016 to 28/05/2017,SGD,0.30,none,PAID
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC000000032361,03/06/2016 to 28/05/2017,SGD,0.50,none,PAID
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC000000032381,03/06/2016 to 28/05/2017,SGD,0.10,none,PAID
-01/04/2019 10:00,151903312601308876,Kiran Dev,DW123456,Critical Illness (Pay per trip),Income,GC100000032396,03/06/2016 to 28/05/2017,SGD,0.30,none,PAID
+Transaction Date,Payment Ref,Payer Name,Open ID,ProductName,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
+22/07/2019 09:31,4.02E+17,TEST Arjun,120026,Critical Illness: Pay Per Trip,NTUC Income,GC00000120026,05/06/2020 to 01/04/2021,SGD,40.33,Free Policy,PAID
+22/07/2019 09:31,4.02E+17,TEST Arjun,120026,Critical Illness: Pay Per Trip,NTUC Income,GC00000144157,05/06/2020 to 01/04/2021,SGD,0.1,none,PAID
+22/07/2019 09:31,4.02E+17,TEST Arjun,120026,Critical Illness: Pay Per Trip,NTUC Income,GC00000126951,05/06/2020 to 01/04/2021,SGD,0.1,none,PAID
