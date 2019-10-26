@@ -1,0 +1,7 @@
+Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019408237,26/10/2019 to 20/10/2020,SGD,0.3,Free Policy,PAID
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019535384,26/10/2019 to 20/10/2020,SGD,0.3,none,PAID
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019679568,26/10/2019 to 20/10/2020,SGD,0.3,Free Policy,PAID
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019862782,26/10/2019 to 20/10/2020,SGD,0.3,Free Policy,PAID
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019902579,26/10/2019 to 20/10/2020,SGD,0.3,none,PAID
+23/07/2019 09:31,20191021,TEST Arjun,535384,ProductName,Insurance Company,GCG2019977472,26/10/2019 to 20/10/2020,SGD,0.3,none,PAID
