@@ -1,0 +1,13 @@
+# Transaction Date, Payment Ref, Payer Name, Open ID, Product Name, Insurance Company, Policy Number, Coverage Period, Currency, Charge Amount, Promotion Type, Status
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000105387, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000114200, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000130362, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000148124, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000168087, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000233381, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000233477, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000473509, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000864435, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000918958, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000933638, 26/10/2019 to 20/10/2020, SGD, 5.33, Free Policy, PAID
+23/07/2019 09:31, 20191026, TEST Arjun, 933638, ProductName, Insurance Company, GC880000992572, 26/10/2019 to 20/10/2020, SGD, 0.1, none, PAID
