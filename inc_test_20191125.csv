@@ -1,9 +1,4 @@
 Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC20191125170345,25/11/2019 to 19/11/2020,SGD,5.33,Free Policy, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000124653,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000463184,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000377092,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000291895,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000613340,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000344010,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
-23/07/2019 09:31,20191026,TEST Arjun,385806,ProductName,Insurance Company,GC880000291895,24/07/2019 to 18/07/2020,SGD,0.1,none, PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,967704,Critical Illness (Pay per trip),Income,GC20191126212120,20/11/2019 to 20/11/2020,SGD,5.33,Free Policy,PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,967704,Critical Illness (Pay per trip),Income,GC880000451118,24/11/2019 to 18/11/2020,SGD,0.10,none,PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,967704,Critical Illness (Pay per trip),Income,GC880000521868,26/11/2019 to 22/11/2020,SGD,0.10,none,PAID
