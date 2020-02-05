@@ -1,4 +1,4 @@
 Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
-01/04/2019 10:00,1.51903E+17,Kiran Dev,494541,Critical Illness (Pay per trip),Income,GC20200203132308,01/01/2020 to 28/01/2021,SGD,5.33,Free Policy,PAID
-01/04/2019 10:00,1.51903E+17,Kiran Dev,494541,Critical Illness (Pay per trip),Income,GC880000257495,13/01/2020 to 07/01/2021,SGD,0.50,none,PAID
-01/04/2019 10:00,1.51903E+17,Kiran Dev,494541,Critical Illness (Pay per trip),Income,GC880000409067,13/01/2020 to 07/01/2021,SGD,0.50,none,PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,280210,Critical Illness (Pay per trip),Income,GC20200205213149,01/02/2020 to 30/01/2021,SGD,5.33,Free Policy,PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,280210,Critical Illness (Pay per trip),Income,GC880000393449,13/02/2020 to 07/02/2021,SGD,0.50,none,PAID
+01/04/2019 10:00,1.51903E+17,Kiran Dev,280210,Critical Illness (Pay per trip),Income,GC880000575917,13/02/2020 to 07/02/2021,SGD,0.50,none,PAID
