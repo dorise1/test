@@ -1,4 +1,5 @@
 Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
-12/12/2019 09:31,20191021,Peppa DoVoRe,1626010846,ProductName,Insurance Company,GC1000000050380,12/12/2019 to 06/12/2020,SGD,5.33,Free Policy,PAID
-12/12/2019 09:31,20191021,Peppa DoVoRe,1626010846,ProductName,Insurance Company,GC1000000029547,12/12/2019 to 06/12/2020,SGD,0.5,none,PAID
-12/12/2019 09:31,20191021,Peppa DoVoRe,1626010846,ProductName,Insurance Company,GC1000000179140,12/12/2019 to 06/12/2020,SGD,0.5,none,PAID
+13/12/2019 09:31,20191021,Peppa PzGtYu,1940615201,ProductName,Insurance Company,GC2000000573518,13/12/2019 to 07/12/2020,SGD,5.33,Free Policy,PAID
+13/12/2019 09:31,20191021,Peppa PzGtYu,1940615201,ProductName,Insurance Company,GC2000000717502,13/12/2019 to 07/12/2020,SGD,0.5,none,PAID
+13/12/2019 09:31,20191021,Peppa PzGtYu,1940615201,ProductName,Insurance Company,GC2000000556723,13/12/2019 to 07/12/2020,SGD,0.5,none,PAID
+13/12/2019 09:31,20191021,Peppa PzGtYu,1940615201,ProductName,Insurance Company,GC2000000120737,13/12/2019 to 07/12/2020,SGD,0.5,none,PAID
