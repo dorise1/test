@@ -1,0 +1,5 @@
+Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
+23/07/2019 09:31,20191021,TEST Arjun,123456,ProductName,Insurance Company,B000120015,25/12/2019 to 19/12/2020,SGD,25,none,PAID
+23/07/2019 09:31,20191021,TEST Arjun,123456,ProductName,Insurance Company,B000120014,25/12/2019 to 19/12/2020,SGD,25,none,PAID
+23/07/2019 09:31,20191021,TEST Arjun,123456,ProductName,Insurance Company,B000120016,25/12/2019 to 19/12/2020,SGD,25,none,PAID
+23/07/2019 09:31,20191021,TEST Arjun,123456,ProductName,Insurance Company,B000120041,25/12/2019 to 19/12/2020,SGD,25,none,PAID
