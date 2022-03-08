@@ -1,4 +1,4 @@
 Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Status
-23/07/2019 09:31:00,4.02E+13,TEST Arjun,5235568,ProductName,Insurance Company,GC525337088197,08/06/2022 to 10/03/202,SGD,0.5,none,PAID
-23/07/2019 09:31:00,4.02E+13,TEST Arjun,5267115,ProductName,Insurance Company,GC525045402617,08/06/2022 to 10/03/202,SGD,0.5,none,PAID
-23/07/2019 09:31:00,4.02E+13,TEST Arjun,5257763,ProductName,Insurance Company,GC523711493153,08/06/2022 to 10/03/202,SGD,0.5,none,PAID
+23/07/2019 09:31:00,4.02E+13,TEST Arjun,5235568,ProductName,Insurance Company,GC525337088197,08/06/2022 to 10/03/2023,SGD,0.5,none,PAID
+23/07/2019 09:31:00,4.02E+13,TEST Arjun,5267115,ProductName,Insurance Company,GC525045402617,08/06/2022 to 10/03/2023,SGD,0.5,none,PAID
+23/07/2019 09:31:00,4.02E+13,TEST Arjun,5257763,ProductName,Insurance Company,GC523711493153,08/06/2022 to 10/03/2023,SGD,0.5,none,PAID
