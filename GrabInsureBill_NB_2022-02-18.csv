@@ -1,7 +1,7 @@
 "Transaction Date","Payment Ref","Payer Name","Open ID","Product Name","Insurance Company","Policy Number","Coverage Period",Currency,"Charge Amount","Promotion Type",Status
-"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC293073484701,"18/02/2022 to 13/02/2023",SGD,0.10,"Free Policy",PAID
-"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL713213,ProductName,"Insurance Company",GC59820736638,"18/02/2022 to 13/02/2023",SGD,0.20,"Free Policy",PAID
-"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC61534924549,"19/02/2022 to 13/02/2023",SGD,0.30,none,PAID
+"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC29307348470,"18/02/2022 to 13/02/2023",SGD,0.20,"Free Policy",PAID
+"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL713213,ProductName,"Insurance Company",GC59820736638,"18/02/2022 to 13/02/2023",SGD,0.10,"Free Policy",PAID
+"2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC61534924549,"18/02/2022 to 13/02/2023",SGD,0.30,none,PAID
 "2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC49401629858,"18/02/2022 to 13/02/2023",SGD,0.10,none,PAID
 "2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL795790,ProductName,"Insurance Company",GC94850504295,"18/02/2022 to 13/02/2023",SGD,0.50,none,PAID
 "2022-02-18 00:00:00",40200000000000,"TEST Arjun",DL713213,ProductName,"Insurance Company",GC68418654249,"18/02/2022 to 13/02/2023",SGD,0.30,none,PAID
