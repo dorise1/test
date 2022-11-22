@@ -1,0 +1,4 @@
+"Transaction Date","Payment Ref","Payer Name","Open ID","Product Name","Insurance Company","Policy Number","Coverage Period",Currency,"Charge Amount","Promotion Type",Status
+"2022-12-10 00:00:00",40200000000000,"TEST Arjun",5287251,ProductName,"Insurance Company",GC529114196182,"10/12/2022 to 04/12/2023",SGD,0.50,"Free Policy",PAID
+"2022-12-10 00:00:00",40200000000000,"TEST Arjun",5287251,ProductName,"Insurance Company",GC524583857885,"10/12/2022 to 04/12/2023",SGD,0.30,none,PAID
+"2022-12-10 00:00:00",40200000000000,"TEST Arjun",5287251,ProductName,"Insurance Company",GC525748182474,"10/12/2022 to 04/12/2023",SGD,0.30,none,PAID
