@@ -1,0 +1,5 @@
+"transaction_date","40200000000000","TEST Arjun","channel_user_no","ProductName","Insurance Company","event_no","Coverage Period","SGD","fee_amount","Promotion Type","Status"
+"2024-05-07 00:00:00","40200000000000",TEST Arjun,"521234",ProductName,Insurance Company,GC52469869716,"07/05/2024 to 01/05/2025",SGD,"0.10",Free Policy,PAID
+"2024-05-07 00:00:00","40200000000000",TEST Arjun,"521234",ProductName,Insurance Company,GC52766932852,"07/05/2024 to 01/05/2025",SGD,"0.30",none,PAID
+"2024-05-07 00:00:00","40200000000000",TEST Arjun,"521234",ProductName,Insurance Company,GC52371989939,"07/05/2024 to 01/05/2025",SGD,"0.10",Free Policy,PAID
+"2024-05-07 00:00:00","40200000000000",TEST Arjun,"521234",ProductName,Insurance Company,GC52166761867,"07/05/2024 to 01/05/2025",SGD,"0.30",none,PAID
